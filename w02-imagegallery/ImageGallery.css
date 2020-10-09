@@ -1,0 +1,30 @@
+#line3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#line3 img {
+  width: 30%;
+  margin: 1.66%;
+}
+
+#line4 img {
+  width: 20%;
+  margin: 1.6%;
+}
+
+#line5 img {
+  width: 15%;
+  margin: 1.5%;
+}
+
+p {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32pt;
+  font-weight: 600;
+  border-bottom: 3pt solid gray;
+  padding-bottom: 3pt;
+  width: 85%;
+  margin: 1%;
+}
